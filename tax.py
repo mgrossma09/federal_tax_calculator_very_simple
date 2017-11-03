@@ -37,7 +37,7 @@ standard_deductions = {
 exemptions = {
     '2017': 4050,
     'Trump': 0,
-    'Trump_2017_11_02': 12000,
+    'Trump_2017_11_02': 0,
 }
 
 
